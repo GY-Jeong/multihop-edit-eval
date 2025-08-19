@@ -1,7 +1,6 @@
 # Watch Your Step: A Fine-Grained Evaluation Framework for Multi-hop Knowledge Editing in Large Language Models
 
-This repository provides the official code and dataset for the anonymous review of the paper:
-
+Official code for the **CIKM 2025 paper**:
 **"Watch Your Step: A Fine-Grained Evaluation Framework for Multi-hop Knowledge Editing in Large Language Models"**
 
 ## Directory Structure
